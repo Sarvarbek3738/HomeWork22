@@ -553,6 +553,7 @@ main .section7 .box7 .box7-1 .box7-3 .but7 i {
 }
 main .section8 {
   background-color: white;
+  padding-top: 100px;
 }
 main .section8 .container {
   margin: 0 auto;
@@ -646,7 +647,7 @@ main .section9 .box9 button:hover {
 .footer10 {
   padding-top: 50px;
   background-color: #212121;
-  padding-bottom: 50px;
+  padding-bottom: 10px;
 }
 .footer10 ul {
   list-style: none;
@@ -675,7 +676,9 @@ main .section9 .box9 button:hover {
   display: flex;
   justify-content: space-between;
   padding-top: 30px;
+  padding-bottom: 30px;
   border-top: 1px solid #424242;
+  border-bottom: 1px solid #424242;
 }
 .footer10 .box11 h3 {
   color: white;
@@ -735,4 +738,13 @@ main .section9 .box9 button:hover {
 }
 .footer10 .box11 .box11-2 .box11-5 .box11-6 button {
   background-color: #F17228;
+}
+.footer10 .oxiri {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+.footer10 .oxiri i {
+  color: #FAAA01;
 }/*# sourceMappingURL=main.css.map */
